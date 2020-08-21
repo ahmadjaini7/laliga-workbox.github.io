@@ -6,7 +6,7 @@
     "background_color": "#0c7a3a",
     "display": "standalone",
     "scope": "/",
-    "start_url": "/index.html",
+    "start_url": "https://ahmadjaini7.github.io/laliga-workbox.github.io/index.html",
     "icons": [
         {
             "src": "image/icons/icon-72.png",
